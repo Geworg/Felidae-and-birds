@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrap{
+    height: 916px;
+    display: flex;
+    background-color: rgb(221, 221, 221);
+}
+
+.wrap1{
+    padding: 90px;
+    margin-left: 110px;
+    width: 800px;
+    height: 100%;
+    background-color: rgb(105, 145, 112);
+}
+
+.wrap2{
+    margin-left: 100px;
+    width: 800px;
+    height: 100%;
+    background-color: rgb(164, 94, 94);
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+#hidden{
+    display: none;
+}
+
+.wrap2 img{
+    display: none;
+}
+
+.search{
+    margin-left: 870px;
+}
